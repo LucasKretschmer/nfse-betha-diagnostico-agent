@@ -1,0 +1,1 @@
+"""NFSe Betha Diagnostico Agent."""

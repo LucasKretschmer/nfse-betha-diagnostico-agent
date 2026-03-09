@@ -1,0 +1,7 @@
+{
+  "xml": "<RecepcionarDpsResposta><listaMensagens><mensagem><codigo>E001</codigo><mensagem>cvc-complex-type.2.4.a: Foi detectado um conteudo invalido comecando com o elemento xDescServ. Era esperado um dos {\"http://www.betha.com.br/e-nota-dps\":cTribNac).</mensagem><correcao>Verifique a estrutura do XML</correcao></mensagem></listaMensagens></RecepcionarDpsResposta>",
+  "erro": {
+    "codigo": "E001",
+    "mensagem": "E001: cvc-complex-type.2.4.b: O conteudo do elemento cServ nao completo. Sao esperados como correspondentes para {http://www.sped.fazenda.gov.br/nfse}cTribNac"
+  }
+}
